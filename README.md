@@ -1,5 +1,5 @@
-📊 Customer & Sales Analytics Dashboard (Cognos Assignment)
-📌 Overview
+<h1>📊 Customer & Sales Analytics Dashboard (Cognos Assignment)</h1>
+<h2>📌 Overview</h2>
 
 This project presents a comprehensive business intelligence dashboard built using IBM Cognos Analytics. The goal of this assignment is to analyze customer behavior, sales performance, and marketing effectiveness using interactive visualizations.
 
@@ -13,7 +13,7 @@ Marketing campaign effectiveness
 
 Customer lifetime value (CLV) trends
 
-🎯 Objectives
+<h2>🎯 Objectives</h2>
 
 Analyze sales and profit performance
 
@@ -25,7 +25,7 @@ Visualize customer lifetime value across cities
 
 Identify trends and patterns for business decision-making
 
-📂 Dataset Description
+<h2>📂 Dataset Description</h2>
 
 The dataset used in this project includes:
 
@@ -38,7 +38,7 @@ Departments	Product categories
 Loyalty Status	Customer segmentation (VIP, Gold, etc.)
 City	Location-based sales data
 Marketing Coupons	Campaign response tracking
-📊 Dashboard Components
+<h2>📊 Dashboard Components</h2>
 1. 🌍 Revenue & Quantity by Location
 
 A map visualization showing:
